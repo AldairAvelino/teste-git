@@ -1,4 +1,4 @@
 # Repositório Para Aula de Git
-Aula de teste
+Aula de Versionamento de Código
 
 ## Aula 01
